@@ -13,7 +13,6 @@ class ATMChatBot:
         self.state = "Idle"
         self.balance = 2345.56
 
-
     def detect_intent(self, user_input):
         user_input = user_input.lower()
         for intent, patterns in PATTERNS.items():
