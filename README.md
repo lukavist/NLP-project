@@ -83,6 +83,3 @@ Experiment with speech synthesis tools and report on the experience.
 
 ---
 
-## Notes
-
-Feel free to expand on any section or choose a different NLP-related topic that interests you. This project is flexible and intended to build a broad foundation across key areas of NLP.
